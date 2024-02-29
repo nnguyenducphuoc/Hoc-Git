@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sadsfadsf
+=======
+czxczxczxcz
+>>>>>>> 44e6187f4ed0f2c1baebb443f91b09b9b746f4c1
